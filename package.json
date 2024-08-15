@@ -1,7 +1,7 @@
 {
-  "name": "mad-con",
+  "name": "vcon",
   "version": "0.0.01",
-  "description": "A CLI tool to convert video files to GIF format",
+  "description": "A CLI tool to convert video files",
   "main": "cli.js",
   "type": "module",
   "scripts": {
